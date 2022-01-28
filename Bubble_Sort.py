@@ -25,9 +25,8 @@
 		print(buble)
 
 
-
 #		+===============================================+
-#		+			 By - Aaush Raj						+
-#		+		- aayushcontactinfo@gmail.com			+
-#		+												+
+#		+			 By - Aaush Raj		+		
+#		+		- aayushcontactinfo@gmail.com	+		
+#		+						+						
 #		+===============================================+
