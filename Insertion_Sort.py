@@ -1,5 +1,5 @@
 																	
-															#		INSERTION SORT - PYTHON CODE
+					#		INSERTION SORT - PYTHON CODE
 
 
 
@@ -35,9 +35,8 @@
 		print(a)
 		
 		
-
 #		+===============================================+
-#		+			 By - Aaush Raj						+
-#		+		- aayushcontactinfo@gmail.com			+
-#		+												+
+#		+			 By - Aaush Raj		+		
+#		+		- aayushcontactinfo@gmail.com	+		
+#		+						+						
 #		+===============================================+
