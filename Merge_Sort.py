@@ -1,6 +1,7 @@
 																		
-														#				MERGE SORT - PYTHON CODE
+						#				MERGE SORT - PYTHON CODE
 
+		
 		def merge_sort(array):
 			if len(array)>1:
 				left_array = array[:len(array)//2]
@@ -42,7 +43,7 @@
 
 
 #		+===============================================+
-#		+			 By - Aaush Raj						+
-#		+		- aayushcontactinfo@gmail.com			+
-#		+												+
+#		+			 By - Aaush Raj		+		
+#		+		- aayushcontactinfo@gmail.com	+		
+#		+						+						
 #		+===============================================+
