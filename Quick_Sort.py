@@ -1,5 +1,5 @@
 
-																	#		QUICK SORT - PYTHON CODE
+							#		QUICK SORT - PYTHON CODE
 																			
 																					
 		array = [99,11,22,55,44,66,33,77,88]
@@ -35,7 +35,7 @@
 																								
 	
 #		+===============================================+
-#		+			 By - Aaush Raj						+
-#		+		- aayushcontactinfo@gmail.com			+
-#		+												+
+#		+			 By - Aaush Raj		+		
+#		+		- aayushcontactinfo@gmail.com	+		
+#		+						+						
 #		+===============================================+
